@@ -23,3 +23,4 @@ A simple key-value database with transaction support. Keys are strings, values a
    python main.py
    ```
 
+To improve this assignment for future classes, the instructions could clarify expected error behavior and provide an automated test suite for consistent grading. And better testing practices.
